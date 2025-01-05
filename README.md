@@ -2,7 +2,7 @@
 Ice - PolarLang go impl 🧊
 
 Example:
-```ice
+```icelang
 fn main() {
 	text = 'Hello world!'
 	putln(text)
